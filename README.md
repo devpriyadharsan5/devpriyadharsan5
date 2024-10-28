@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dpriyadharsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpriyadharsan" height="30" width="40" /></a>
+
 <a href="https://instagram.com/dev_priyadharsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_priyadharsan" height="30" width="40" /></a>
 </p>
 
@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devpriyadharsan5&show_icons=true&locale=en" alt="devpriyadharsan5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpriyadharsan5&" alt="devpriyadharsan5" /></p>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/671f765d31d65c235d347ee0?variant=light" alt="roadmap.sh"/></a>
